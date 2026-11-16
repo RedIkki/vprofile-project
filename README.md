@@ -1,6 +1,7 @@
 # Prerequisites
-#
-- JDK 17 or 21
+# Adding some information to be commited as part of the training
+
+- JDK 17 or 21 or even greater
 - Maven 3.9
 - MySQL 8
 
